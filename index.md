@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to JnB Blog
 
-I'm glad you are here. I plan to talk about ...
+I'm going to share the adventures of Jacky and Bobo. 
